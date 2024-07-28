@@ -5,3 +5,4 @@ python-telegram-bot
 scikit-learn
 schedule
 matplotlib
+flask
