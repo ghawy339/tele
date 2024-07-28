@@ -1,0 +1,7 @@
+ccxt
+pandas_ta
+pandas
+python-telegram-bot
+scikit-learn
+schedule
+matplotlib
